@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ReminderApplication {
 
-	public static void main(String[] args)throws Throwable {
-		SpringApplication.run(ReminderApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ReminderApplication.class, args);
+    }
 }
+
